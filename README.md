@@ -2,7 +2,7 @@
     
 
 ## 🚀// About me 
-I am a backend developer and Database student. On my GitHub I document all my projects and study notes.
+I am a backend developer. On my GitHub I document all my projects and study notes.
 
 
 ## 🛠 // Skills
